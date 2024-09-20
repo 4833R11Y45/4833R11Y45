@@ -6,7 +6,7 @@
 
 <strong>About Me:</strong><br>
 💻 I’m a passionate CS student, who has interest in coding and media.<br>
-📚 I’m a junior year CS undergraduate in Institute of Space Technology, Islamabad<br>
+📚 I’m a CS grad in Institute of Space Technology, Islamabad<br>
 
 📫 Reach me at <a href="mailto:abeer.ilyas2001@gmail.com">abeer.ilyas2001@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/abeer-ilyas-498206206">Linkedin</a><br><br><br>
